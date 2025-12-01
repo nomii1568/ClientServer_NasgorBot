@@ -1,0 +1,50 @@
+[
+  {
+    "keywords": ["bahan", "material", "ingredients"],
+    "answer": "Bahan utama Nasi Goreng: Nasi (dingin), telur, bawang merah, bawang putih, kecap manis, garam, dan cabai (opsional). Anda bisa menambahkan protein seperti ayam atau udang untuk variasi."
+  },
+  {
+    "keywords": ["langkah", "cara", "membuat", "masak"],
+    "answer": "Langkah-langkah memasak: 1. Panaskan minyak di wajan. 2. Tumis bumbu halus. 3. Masukkan telur/protein dan orak-arik. 4. Masukkan nasi dan aduk rata. 5. Tambahkan kecap dan bumbu lain. Masak hingga semua tercampur merata."
+  },
+  {
+    "keywords": ["tips", "enak", "spesial"],
+    "answer": "Tips Nasi Goreng spesial: Selalu gunakan nasi yang sudah didiamkan semalaman di kulkas (dingin) agar hasilnya tidak lengket. Pastikan api besar untuk mendapatkan aroma 'smoky' (wok hei)."
+  },
+  {
+    "keywords": ["porsi", "berapa"],
+    "answer": "Resep standar kami disesuaikan untuk 1 hingga 2 porsi. Untuk porsi yang lebih besar, pastikan wajan Anda cukup besar agar panasnya merata."
+  },
+  {
+    "keywords": ["terima kasih", "tq", "thanks"],
+    "answer": "Sama-sama! Kami senang bisa membantu Anda membuat Nasi Goreng terbaik!"
+  },
+  {
+    "keywords": ["hello", "hi", "salam"],
+    "answer": "Halo! Selamat datang di bot resep Nasgor. Tanyakan tentang 'bahan', 'langkah', atau 'tips'!"
+  }, 
+  {
+    "keywords": ["sederhana", "simple", "gampang", "simpel", "cara", "membuat", "masak"],
+    "answer": "Nasi Goreng Sederhana: 1. Panaskan wajan dan minyak, tumis bumbu halus hingga wangi. 2. Masukkan telur, orak-arik setengah matang. 3. Masukkan nasi, kecap manis, dan bumbu penyedap. 4. Aduk rata, lalu masukkan kol dan daun bawang. 5. Masak hingga sayuran matang dan terakhir masukkan irisan cabe merah. 6. Masak hingga agak layu dan sajikan."
+  },
+  {
+    "keywords": ["kampung", "desa", "trisional", "tradisional", "cara", "membuat", "masak"],
+    "answer": "Nasi Goreng Kampung: 1. Kocok telur dengan sedikit garam, buat orak-arik di wajan, sisihkan. 2. Tumis irisan bawang merah, bawang putih, dan cabe rawit hingga harum. 3. Masukkan nasi putih dan telur orak-arik. 4. Beri Kecap Manis, gula, garam, dan lada. 5. Masak sambil terus diaduk sampai nasi agak kering dan bumbu merata."
+  },
+  {
+    "keywords": ["seafood", "udang", "cumi", "laut", "cara", "membuat", "masak"],
+    "answer": "Nasi Goreng Seafood: 1. Tumis udang, cumi, dan bakso sampai matang, sisihkan. 2. Buat telur orak-arik, sisihkan. 3. Tumis bawang merah, bawang putih, dan ebi halus hingga harum. 4. Masukkan nasi, tumisan seafood, dan telur. 5. Bumbui dengan saus tiram, kecap ikan, saus sambal, dan kecap manis. 6. Aduk rata, tambahkan daun bawang, dan sajikan."
+  },
+  {
+    "keywords": ["mawut", "magelangan", "mie", "cara", "membuat", "masak"],
+    "answer": "Nasi Goreng Mawut/Magelangan: 1. Rebus mie lalu tiriskan. 2. Buat telur orak-arik, sisihkan. 3. Tumis bumbu halus dan ayam hingga berubah warna. 4. Masukkan nasi dan mie rebus, aduk rata. 5. Tambahkan sawi, kecap manis, kecap asin, kaldu jamur, dan lada. 6. Aduk hingga semua tercampur rata dan matang."
+  },
+  {
+    "keywords": ["singapore", "singapur", "cara", "membuat", "masak"],
+    "answer": "Nasi Goreng Singapore: 1. Tumis bawang putih cincang dengan margarin hingga harum. 2. Masukkan daun bawang, ebi, jamur, dan jagung manis, tumis hingga layu. 3. Masukkan telur kocok, buat orak-arik kasar. 4. Masukkan nasi, bumbui dengan saus tiram, kecap asin, merica, garam, dan minyak wijen (tanpa kecap manis). 5. Aduk cepat, tambahkan kucai, dan angkat."
+  },
+  {
+    "keywords": ["kerang", "pedas", "gila", "cara", "membuat", "masak"],
+    "answer": "Nasi Goreng Kerang Pedas Gila: 1. Ceplok telur dan buat orak-arik, sisihkan di pinggir wajan. 2. Masukkan bumbu halus, tumis hingga harum. 3. Masukkan nasi putih dan tumisan kerang, aduk rata. 4. Bumbui dengan Kecap Manis, garam, dan kaldu bubuk. 5. Masak hingga tanak dan sajikan dengan bawang goreng."
+  }
+]
