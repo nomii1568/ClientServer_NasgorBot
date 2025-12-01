@@ -5,8 +5,6 @@ import json
 import os
 from difflib import SequenceMatcher
 
-# --- Konfigurasi Server
-# HOST = '0.0.0.0'
 HOST = '192.168.8.33'
 PORT = 12345
 BUFFER_SIZE = 1024

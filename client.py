@@ -1,7 +1,6 @@
 import socket
 import sys
 
-# SERVER_HOST = '127.0.0.1'
 SERVER_HOST = '192.168.8.33'
 SERVER_PORT = 12345
 BUFFER_SIZE = 1024
